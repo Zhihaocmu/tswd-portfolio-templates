@@ -12,7 +12,7 @@
 ### (Logic): Background introduction---Then, reasons from different aspects---My prospects.
 
 ## Initial sketches
-<img src="Sketches of Outline.jpg" width="800"/>
+<img src="Sketches of Outline.jpg" width="1200"/>
 
 # The data
 ### https://www.unwto.org/tourism-data/unwto-tourism-recovery-tracker
