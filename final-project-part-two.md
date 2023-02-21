@@ -19,7 +19,9 @@
 <img src="Sketch.png" width="800"/>
 <img src="Cities.png" width="800"/>
 <img src="Death rate and cases of Covid-19.png" width="800"/>
+
 ## There are several other pitcures/ DataViz in Shorthand not shown here.
+
 # --------------
 # --------------
 # --------------
@@ -35,7 +37,7 @@
 ### 3. Do you have preferred Asian countries as the travel destination? If you do, please sort them in the preference degree
 # -------
 # User research: findings:
-### Interestingly, different from data on people from UK, who prefer India, Pakistan, and China, people in US prefer South Korea, Japan, and China.
-### Some American who had never come to China before will not choose China as the travel destination, but those who had ever did would definitely go.
+### Interestingly, different from data on people from UK, who prefer India, Pakistan, and China, people in US prefer South Korea, Japan, and China.(Is this because of the colonial history? Or, is this because the geological issues on the world map? I am curious, but I don't want to dive deeper into this question.)
+### Some American who had never come to China before will not choose China as the travel destination, but those who had ever did would definitely come Chian once again if the condition permits.
 ### American who don't wish to go to China are concerned about many aspects, such as culture difference, political ideology difference, and more.
 ### But when I asked them if a series of Asian coutries can be visited (e.g. First going to Japan, then South Korea, and China, finally India and Pakistan), all interviewers were glad to incorporate China as one of the stops.
